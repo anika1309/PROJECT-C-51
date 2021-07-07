@@ -1,0 +1,74 @@
+
+
+
+
+body{
+    text-align: center;
+    background-color: rgb(240, 155, 197);
+}
+
+.header{
+         background-color: rgb(215, 141, 250);
+         display:flex;
+         justify-content: space-between;
+
+}
+
+.grid{
+
+       display: flex;
+       flex-wrap: wrap;
+       justify-content: space-evenly;
+
+       font-size: 25px;
+       font-style: italic;
+       font-family:  sans-serif;
+       
+}
+
+.footer{
+
+          display: flex;
+          justify-content: flex-end;
+
+}
+
+.site-description{
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: first baseline;
+}
+
+.grid img{
+           border: rgb(182, 124, 236);
+           border-radius: 50px;
+}
+
+.origami{
+        border-radius: 20px;
+        background-color: rgb(250, 75, 177);
+        padding: 30px;
+        margin: 25px;
+        width:310px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ .menu{
+        display: flex;
+        justify-content: space-between;
+        background-color: rgb(226, 179, 250);
+        font-size: 20px;
+        font-family: sans-serif;
+        font-weight: 400;
+        color: darkslateblue;
+ }
+
+body{
+       margin-top: 20px;
+       margin-bottom: 20px;
+       margin-left: 10px;
+       margin-right: 10px;
+       background-color: rgb(255, 202, 237);
+
+}
+ 
+
